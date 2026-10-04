@@ -7,6 +7,7 @@ proyek tim TomaTrack di Hology 9.0 2026 (Finalis).
 - **Code ESP32-Cam** `/ESP32-CAM Code`
 - **Dashboard lokal:** `/Dashboard`
 - **hardware Code:** `/Hardware Code /Arduino Code`
+- **3D Design** `Design 3d`
 - Sebagian wiring hardware dan desain 3D casing perangkat
 
 **Bagian anggota tim lain:** [misal firmware ESP32-CAM, training model, dll.]
