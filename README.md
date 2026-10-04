@@ -3,9 +3,10 @@
 Repo ini adalah fork dari [SheindyAfriliaManurung/Hology](https://github.com/SheindyAfriliaManurung/Hology),
 proyek tim TomaTrack di Hology 9.0 2026 (Finalis).
 
-**Bagian yang saya kerjakan:**
-- **AI server:** [nama folder, misal `/ai-server`]
-- **Dashboard lokal:** [nama folder, misal `/`]
+**Bagian yang saya kerjakan:*
+- **Code ESP32-Cam** `/ESP32-CAM Code`
+- **Dashboard lokal:** `/Dashboard`
+- **hardware Code:** `/Hardware Code /Arduino Code`
 - Sebagian wiring hardware dan desain 3D casing perangkat
 
 **Bagian anggota tim lain:** [misal firmware ESP32-CAM, training model, dll.]
