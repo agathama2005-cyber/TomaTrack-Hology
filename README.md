@@ -1,3 +1,17 @@
+## Kontribusi Saya (Agatha Triotama)
+
+Repo ini adalah fork dari [SheindyAfriliaManurung/Hology](https://github.com/SheindyAfriliaManurung/Hology),
+proyek tim TomaTrack di Hology 9.0 2026 (Finalis).
+
+**Bagian yang saya kerjakan:**
+- **AI server:** [nama folder, misal `/ai-server`]
+- **Dashboard lokal:** [nama folder, misal `/`]
+- Sebagian wiring hardware dan desain 3D casing perangkat
+
+**Bagian anggota tim lain:** [misal firmware ESP32-CAM, training model, dll.]
+
+---
+
 # TomaTrack
 
 ## Smart Tomato Plant Monitoring System
