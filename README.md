@@ -13,6 +13,7 @@ proyek tim TomaTrack di Hology 9.0 2026 (Finalis).
 **Bagian anggota tim lain:** [misal firmware ESP32-CAM, training model, dll.]
 
 ---
+**Video Demo:** https://drive.google.com/file/d/1FNaRSbMCKFvgOHAeaPS4VZ4TxNyI_6L_/view
 
 # TomaTrack
 
